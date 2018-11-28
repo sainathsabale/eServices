@@ -1,0 +1,27 @@
+
+
+insert into fivecolumntable ("bu540010aa"	,"8311"	,"7,266,389"	,"9/30/2015 2:08:42.220000 PM"	,"1,507,654);
+insert into fivecolumntable ("tm100010aa"	,"4974"	,"7,583,852"	,"10/19/2015 9:04:09.495000 AM"	,"1,580,564);
+insert into fivecolumntable ("tm100010bb"	,"4974"	,"7,583,856"	,"10/19/2015 9:04:09.535000 AM"	,"1,580,564);
+insert into fivecolumntable ("tm110010aa"	,"4974"	,"7,583,860"	,"10/19/2015 9:04:09.575000 AM"	,"1,580,564);
+insert into fivecolumntable ("tm120010aa"	,"4974"	,"7,583,864"	,"10/19/2015 9:04:09.618000 AM"	,"1,580,564);
+insert into fivecolumntable ("tm130010aa"	,"4974"	,"7,583,868"	,"10/19/2015 9:04:09.661000 AM"	,"1,580,564);
+insert into fivecolumntable ("tm140010aa"	,"4974"	,"7,583,872"	,"10/19/2015 9:04:09.704000 AM"	,"1,580,564);
+insert into fivecolumntable ("tm150010aa"	,"4974"	,"7,583,876"	,"10/19/2015 9:04:09.742000 AM"	,"1,580,564);
+insert into fivecolumntable ("bu540010aa"	,"8311"	,"8,764,282"	,"1/12/2016 1:51:28.535000 PM"	,"1,950,978);
+insert into fivecolumntable ("tm100010aa"	,"8919"	,"9,069,594"	,"1/28/2016 5:03:15.147000 PM"	,"2,037,559);
+
+
+insert into threecolumntable ("tm150010aa", "8709756", "1");
+insert into threecolumntable ("tm150010aa", "8709801", "1");
+insert into threecolumntable ("tm150010aa", "8709815", "1");
+insert into threecolumntable ("tm150010aa", "87399", "1");
+insert into threecolumntable ("tm150010aa", "87536", "1");
+insert into threecolumntable ("tm150010aa", "87634", "1");
+insert into threecolumntable ("tm150010aa", "87877", "1");
+insert into threecolumntable ("tm150010aa", "88066", "1");
+insert into threecolumntable ("tm150010aa", "88093", "1");
+insert into threecolumntable ("tm150010aa", "88349", "1");
+insert into threecolumntable ("tm150010aa", "88444", "2");
+insert into threecolumntable ("tm150010aa", "88756", "1");
+insert into threecolumntable ("tm150010aa", "88859", "1");
